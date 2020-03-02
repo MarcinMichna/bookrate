@@ -85,6 +85,3 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
-src/main/java/pl/michnamarcin/bookrate/entity/
-src/main/resources/static/
-src/main/resources/templates/
