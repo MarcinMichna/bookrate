@@ -1,10 +1,10 @@
-package pl.michnamarcin.bookrate.dao;
+package pl.michnamarcin.bookrate.service;
 
 import pl.michnamarcin.bookrate.entity.Book;
 
 import java.util.List;
 
-public interface BookDAO
+public interface BookService
 {
     List<Book> findAll();
 
